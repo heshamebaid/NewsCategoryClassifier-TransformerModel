@@ -4,11 +4,15 @@ This web app uses a fine-tuned BERT model to classify news articles into one of 
 
 ## 📦 Features
 
-- Custom fine-tuned BERT model
+- Custom Trained Transformer model
 - Flask backend with a responsive HTML frontend
 - Supports 42 news categories
 - Simple and clean UI
 - Project built for educational purposes
+
+## 🖼️ Screenshot
+
+![App Screenshot](screenShot.png)
 
 ## 🚀 Run Locally
 
