@@ -12,7 +12,7 @@ This web app uses a fine-tuned BERT model to classify news articles into one of 
 
 ## 🖼️ Screenshot
 
-![App Screenshot](screenShot.png)
+![App Screenshot](ScreenShot.png)
 
 ## 🚀 Run Locally
 
