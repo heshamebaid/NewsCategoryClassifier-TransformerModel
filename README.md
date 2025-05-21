@@ -1,6 +1,6 @@
-# 📰 News Category Classifier (BERT + Flask)
+# 📰 News Category Classifier (Transformer + Flask)
 
-This web app uses a fine-tuned BERT model to classify news articles into one of 42 categories. The model was trained using the Hugging Face Transformers library and deployed using Flask.
+This web app uses a transformer model to classify news articles into one of 42 categories. The model was trained on kaggle and deployed using Flask.
 
 ## 📦 Features
 
